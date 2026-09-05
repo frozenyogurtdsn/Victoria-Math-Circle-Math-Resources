@@ -4,7 +4,7 @@
 > 
 > Victoria Math Circle is a student-led platform connecting middle and high school students in Greater Victoria to explore mathematics and prepare for competitions together.
 > 
-> * 🌐 **Official Website:** [victoriamathcircle.org](https://victoriamathcircle.org) *(Note: replace with your actual domain if different)*
+> * 🌐 **Official Website:** [victoriamathcircle.org](https://victoriamathcircle.org)
 > * 💬 **Join our Discord:** [Click here to join the VMC Discord Server](https://discord.gg/kNvu2rDmjE)
 > * 📍 **Meetings:** We host regular in-person workshops and online math sessions across Victoria.
 
