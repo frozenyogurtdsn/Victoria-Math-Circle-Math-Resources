@@ -1,5 +1,3 @@
-<img width="1016" height="1024" alt="VMC logo 15" src="https://github.com/user-attachments/assets/a4f22fc6-3409-4890-ae8d-3cc7a450716a" />
-
 # Victoria Math Circle - Session 1
 ## SFFT & Diophantine Exploration
 
