@@ -1,6 +1,12 @@
-# 📐 Victoria Math Circle (VMC) - Open Resource Hub
+# Victoria Math Circle (VMC) - Open Resource Hub
 
-Welcome to the Victoria Math Circle (VMC) Open Resource Hub! This repository serves as a curated collection of learning roadmaps, contest preparation materials, and recommended tools for middle and high school students in Greater Victoria.
+> 🚀 **Join the Community!** 
+> 
+> Victoria Math Circle is a student-led platform connecting middle and high school students in Greater Victoria to explore mathematics and prepare for competitions together.
+> 
+> * 🌐 **Official Website:** [victoriamathcircle.org](https://victoriamathcircle.org) *(Note: replace with your actual domain if different)*
+> * 💬 **Join our Discord:** [Click here to join the VMC Discord Server](https://discord.gg/kNvu2rDmjE)
+> * 📍 **Meetings:** We host regular in-person workshops and online math sessions across Victoria.
 
 ---
 
@@ -42,6 +48,14 @@ Welcome to the Victoria Math Circle (VMC) Open Resource Hub! This repository ser
 1. **Foundational Phase**: Master the high school core curriculum while building topic-specific proficiency on AoPS Alcumus.
 2. **Technique Acquisition**: Learn essential competition techniques (e.g., Simon's Favorite Factoring Trick, Pigeonhole Principle, Modular Arithmetic basics).
 3. **Contest Simulation**: 1 to 2 months prior to a target contest, practice recent 5-year past papers under timed conditions and thoroughly review official solutions.
+
+---
+
+## 🤝 Connect & Get Involved
+
+Want to join our regular problem-solving sessions, ask math questions, or help expand this resource hub?
+* **Website:** Check out our meeting schedule at [victoriamathcircle.org](https://victoriamathcircle.org)
+* **Discord Community:** Chat with fellow student competitors on [Discord](https://discord.gg/kNvu2rDmjE)
 
 ---
 
