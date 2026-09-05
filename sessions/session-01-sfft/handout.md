@@ -1,5 +1,3 @@
-[Session 1 worksheet.pdf](https://github.com/user-attachments/files/31868928/Session.1.worksheet.pdf)
-
 # Victoria Math Circle - Session 1
 ## SFFT & Diophantine Exploration
 
