@@ -20,7 +20,7 @@
 2. A rectangle with integer side lengths $a$ and $b$ has the property that its area is numerically equal to twice its perimeter. Find the sum of all possible values of $a + b$.
    *(~AMC 11 level)*
 
-3. Two high school students, Alex and Beth, are pooling their savings to watch the movie, Niulai. If Alex gives Beth $\$12$, Beth will have three times as much money as Alex. If Beth instead gives Alex $\$12$, Alex will have $k$ times as much money as Beth, where $k$ is a positive integer. Find the maximum possible amount of money Beth could have initially.
+3. Two high school students, Alex and Beth, are pooling their savings to watch the movie, Niulai. If Alex gives Beth \$12, Beth will have three times as much money as Alex. If Beth instead gives Alex \$12, Alex will have $k$ times as much money as Beth, where $k$ is a positive integer. Find the maximum possible amount of money Beth could have initially.
    *(~Cayley level)*
 
 4. Find the number of ordered pairs of positive integers $(x, y)$ that satisfy the equation:
