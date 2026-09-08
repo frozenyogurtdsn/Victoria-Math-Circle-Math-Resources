@@ -46,15 +46,15 @@
 ## 💡 4. VMC Recommended Learning Roadmap
 
 1. **Foundational Phase**: Master the high school core curriculum while building topic-specific proficiency on AoPS Alcumus.
-2. **Technique Acquisition**: Learn essential competition techniques (e.g., Simon's Favorite Factoring Trick, Pigeonhole Principle, Modular Arithmetic basics).
-3. **Contest Simulation**: 1 to 2 months prior to a target contest, practice recent 5-year past papers under timed conditions and thoroughly review official solutions.
+2. **Technique Acquisition**: Come to Victoria Math Circle sessions to learn essential competition techniques.
+3. **Contest Simulation**: 1 to 2 months prior to a target contest, practice at least recent 5-year past papers under timed conditions and thoroughly review official solutions.
 
 ---
 
 ## 🤝 Connect & Get Involved
 
 Want to join our regular problem-solving sessions, ask math questions, or help expand this resource hub?
-* **Website:** Check out our meeting schedule at [victoriamathcircle.org](https://victoriamathcircle.org)(Still under development)
+* **Website:** Check out our meeting schedule at [victoriamathcircle.org](https://victoriamathcircle.org)
 * **Discord Community:** Chat with fellow student competitors on [Discord](https://discord.gg/kNvu2rDmjE)
 
 ---
