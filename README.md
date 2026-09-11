@@ -1,16 +1,16 @@
 # Victoria Math Circle (VMC) - Open Resource Hub
 
-> 🚀 **Join the Community!** 
+>  **Join the Community!** 
 > 
 > Victoria Math Circle is a student-led platform connecting middle and high school students in Greater Victoria to explore mathematics and prepare for competitions together.
 > 
-> * 🌐 **Official Website:** [victoriamathcircle.org](https://victoriamathcircle.org) 
-> * 💬 **Join our Discord:** [Click here to join the VMC Discord Server](https://discord.gg/kNvu2rDmjE)
-> * 📍 **Meetings:** We host regular in-person workshops and online math sessions across Victoria.
+ **Official Website:** [victoriamathcircle.org](https://victoriamathcircle.org) 
+> **Join our Discord:** [Click here to join the VMC Discord Server](https://discord.gg/kNvu2rDmjE)
+> **Meetings:** We host regular in-person workshops and online math sessions across Victoria.
 
 ---
 
-## 🌟 1. Core Learning Platforms
+## 1. Core Learning Platforms
 
 * **Art of Problem Solving (AoPS)**
   * **Alcumus**: A free, adaptive online practice system designed to help students master core topics across Algebra, Geometry, Number Theory, and Counting & Probability.
@@ -20,7 +20,7 @@
 
 ---
 
-## 🏆 2. Past Contests & Official Practice Material
+## 2. Past Contests & Official Practice Material
 
 ### Canadian Mathematics Contests (CMS & Waterloo CEMC)
 * **CEMC Waterloo Past Contests**
@@ -35,7 +35,7 @@
 
 ---
 
-## 📺 3. Recommended Educational YouTube Channels
+## 3. Recommended Educational YouTube Channels
 
 * **3Blue1Brown**: Visualizes higher-level mathematics, linear algebra, and geometry through intuitive animations to build mathematical intuition.
 * **Numberphile**: Fun and engaging videos covering number theory, mathematical paradoxes, and interviews with mathematicians.
@@ -43,7 +43,7 @@
 
 ---
 
-## 💡 4. VMC Recommended Learning Roadmap
+## 4. VMC Recommended Learning Roadmap
 
 1. **Foundational Phase**: Master the high school core curriculum while building topic-specific proficiency on AoPS Alcumus.
 2. **Technique Acquisition**: Come to Victoria Math Circle sessions to learn essential competition techniques.
@@ -51,7 +51,7 @@
 
 ---
 
-## 🤝 Connect & Get Involved
+## Connect & Get Involved
 
 Want to join our regular problem-solving sessions, ask math questions, or help expand this resource hub?
 * **Website:** Check out our meeting schedule at [victoriamathcircle.org](https://victoriamathcircle.org)
