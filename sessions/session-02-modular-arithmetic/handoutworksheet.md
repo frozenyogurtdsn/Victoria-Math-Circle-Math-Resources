@@ -3,9 +3,9 @@
 
 **Topic:** Congruence Properties, Fermat's Little Theorem & Advanced Divisibility
 
-### Core Identity:
-If $a \equiv b \pmod{m}$, then $a^k \equiv b^k \pmod{m}$. 
-*(FLT: $a^{p-1} \equiv 1 \pmod{p}$ for prime $p$)*
+**Core Identity:**
+* If $a \equiv b \pmod{m}$, then $a^k \equiv b^k \pmod{m}$.
+* **Fermat's Little Theorem (FLT):** $a^{p-1} \equiv 1 \pmod{p}$ for prime $p$.
 
 ---
 
